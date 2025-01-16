@@ -2,9 +2,10 @@
 
 I am Daniel Decembre and I am a self-taught engineer who recieved his certificate from [General Assembly](https://generalassemb.ly/). I am a tech enthusiast & an open-source advocate. Always open to collaborating on projects and innovative/disruptive ideas. Feel free to connect with me here:
 
-[![Linkedin Badge](https://img.shields.io/badge/-anirudhemmadi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/daniel-decembre-aa8940184/)](https://www.linkedin.com/in/daniel-decembre-aa8940184/)
-[![Instagram Badge](https://img.shields.io/badge/-kanna6501-purple?style=flat-square&logo=instagram&logoColor=white&link=https:https://.instagram.com/danieldecembre)](https://www.instagram.com/danieldecembre)
-[![Gmail Badge](https://img.shields.io/badge/-kanna6501@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:danieldecembre15@gmail.com)](mailto:Danieldecembre15@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-decembre-aa8940184/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/danieldecembre/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:danieldecembre15@gmail.com)
+
 
 ## ⚡ Technologies
 
