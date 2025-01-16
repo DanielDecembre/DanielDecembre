@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am Daniel Decembre and I am a self-taught engineer who recieved his certificate from [General Assembly](https://generalassemb.ly/). I am a tech enthusiast & an open-source advocate. Always open to collaborating on projects and innovative/disruptive ideas. Feel free to connect with me here:
+I am Daniel Decembre and I am a self-taught engineer who recieved his certificate from [General Assembly](https://generalassemb.ly/). I am a detail-oriented Full Stack Software Engineer with experience in e-commerce applications and secure payment systems. Skilled in full-stack development, RESTful API design, and database optimization. Proven track record in delivering scalable web solutions using modern technologies including React.js, Next.js, and Firebase. I hope to connect with you! You can reach me here:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-decembre-aa8940184/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/danieldecembre/)
